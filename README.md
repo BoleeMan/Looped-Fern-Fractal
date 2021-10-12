@@ -1,6 +1,6 @@
 # Looped-Fern-Fractal
 Creates Fern Fractals and also rotates loop wise to create snowflake like patterns,
-The program reduced in size showing different Fern Type Fractals.
+The program reduced in size showing different Fern Fractals.
 ![image](https://user-images.githubusercontent.com/91184178/136956930-300ee2bf-e833-40a1-90e3-0880b3e95390.png)
 
 And here are some snowflake type patterns:
